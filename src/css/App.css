@@ -1,0 +1,79 @@
+<style>
+  body {
+    font-family: "Roboto";
+  }
+
+
+  p {
+    margin-bottom: 25px;
+  }
+
+  .image-info {
+    margin: 15px 0;
+  }
+
+  .separator {
+    margin: 0 5px;
+  }
+
+  input {
+    width: 75%;
+    display: block;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    max-width: 250px;
+    border: 2px solid #DDD;
+  }
+
+  input:focus {
+    border: 2px solid blue;
+  }
+
+  .compressor {
+    display: none;
+  }
+
+  .button {
+    display: inline-block;
+    border-radius: 3px;
+    background: #1A237E;
+    color: white;
+    padding: 7px 15px;
+    border: 0;
+    box-shadow: 0px 2px 4px 1px rgba(0,0,0,.4);
+    margin-bottom: 10px;
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+  }
+
+  label {
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  .input-group {
+    margin: 25px 0;
+  }
+
+  .checkbox {
+    margin: 15px 0 20px;
+    background: #EEE;
+    padding: 10px 0;
+  }
+
+  .checkbox input {
+    width: auto;
+    display: inline-block;
+  }
+
+  img {
+    margin: 0 auto;
+    display: block;
+  }
+
+  a {
+    margin: 25px 0 75px;
+  }
+</style>

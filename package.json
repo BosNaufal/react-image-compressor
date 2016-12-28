@@ -1,0 +1,52 @@
+{
+  "name": "react-image-compressor",
+  "version": "1.0.1",
+  "description": "React Component for Converting File to base64",
+  "main": "./src/js/components/react-image-compressor.js",
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot",
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BosNaufal/react-image-compressor.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "react js",
+    "upload",
+    "image",
+    "base64",
+    "blob",
+    "react-image",
+    "image-compressor",
+    "compressor",
+    "image-optimizer",
+    "image",
+    "client-side",
+    "upload",
+    "input file",
+    "file reader"
+  ],
+  "author": "Naufal Rabbani <bosnaufalemail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BosNaufal/react-image-compressor/issues"
+  },
+  "homepage": "https://github.com/BosNaufal/react-image-compressor#readme",
+  "devDependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "css-loader": "^0.23.1",
+    "es6-promise": "^3.1.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
